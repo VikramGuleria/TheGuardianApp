@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#005689</color>
+    <color name="colorPrimaryDark">#00456e</color>
+    <color name="colorAccent">#94b1ca</color>
+    <color name="dividerColor">#BDBDBD</color>
+    <color name="lightPrimaryColor">#ebebeb</color>
+    <color name="primaryText">#5c6268</color>
+    <color name="secondaryText">#757575</color>
+    <color name="timeText">#e04f45</color>
+    <color name="listViewBackground">#f6f6f6</color>
+</resources>

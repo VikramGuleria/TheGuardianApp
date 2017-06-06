@@ -1,0 +1,22 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+
+    <dimen name="progress_bar_height">70dp</dimen>
+    <dimen name="progress_bar_width">70dp</dimen>
+    <dimen name="empty_view_text_size">24sp</dimen>
+    <dimen name="navigation_drawer_width">240dp</dimen>
+    <dimen name="navigation_drawer_divider_height">0dp</dimen>
+    <dimen name="land_navigation_drawer_width">240dp</dimen>
+    <dimen name="list_item_image_width">120dp</dimen>
+    <dimen name="list_item_image_height">120dp</dimen>
+    <dimen name="list_item_section_text_size">11sp</dimen>
+    <dimen name="list_item_section_text_margin_left">6dp</dimen>
+    <dimen name="list_item_title_text_size">12sp</dimen>
+    <dimen name="list_item_text_margin_top">6dp</dimen>
+    <dimen name="list_item_title_text_margin_bottom">0dp</dimen>
+    <dimen name="list_item_title_text_margin_left">6dp</dimen>
+    <dimen name="list_item_title_text_margin_right">6dp</dimen>
+    <dimen name="list_item_time_text_size">9sp</dimen>
+    <dimen name="list_item_time_text_margin_right">6dp</dimen>
+
+</resources>
